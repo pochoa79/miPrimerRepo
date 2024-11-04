@@ -1,1 +1,1 @@
-var api_key="test_mane_454d54fd4fdfdfdfff"
+var stripe_api_key="test_mane_454d54fd4fdfdfdfff"
